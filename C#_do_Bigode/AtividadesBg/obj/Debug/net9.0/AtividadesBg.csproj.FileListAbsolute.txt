@@ -1,0 +1,14 @@
+C:\Users\eminh\OneDrive\Documentos\C#_do_Bigode\AtividadesBg\bin\Debug\net9.0\AtividadesBg.exe
+C:\Users\eminh\OneDrive\Documentos\C#_do_Bigode\AtividadesBg\bin\Debug\net9.0\AtividadesBg.deps.json
+C:\Users\eminh\OneDrive\Documentos\C#_do_Bigode\AtividadesBg\bin\Debug\net9.0\AtividadesBg.runtimeconfig.json
+C:\Users\eminh\OneDrive\Documentos\C#_do_Bigode\AtividadesBg\bin\Debug\net9.0\AtividadesBg.dll
+C:\Users\eminh\OneDrive\Documentos\C#_do_Bigode\AtividadesBg\bin\Debug\net9.0\AtividadesBg.pdb
+C:\Users\eminh\OneDrive\Documentos\C#_do_Bigode\AtividadesBg\obj\Debug\net9.0\AtividadesBg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eminh\OneDrive\Documentos\C#_do_Bigode\AtividadesBg\obj\Debug\net9.0\AtividadesBg.AssemblyInfoInputs.cache
+C:\Users\eminh\OneDrive\Documentos\C#_do_Bigode\AtividadesBg\obj\Debug\net9.0\AtividadesBg.AssemblyInfo.cs
+C:\Users\eminh\OneDrive\Documentos\C#_do_Bigode\AtividadesBg\obj\Debug\net9.0\AtividadesBg.csproj.CoreCompileInputs.cache
+C:\Users\eminh\OneDrive\Documentos\C#_do_Bigode\AtividadesBg\obj\Debug\net9.0\AtividadesBg.dll
+C:\Users\eminh\OneDrive\Documentos\C#_do_Bigode\AtividadesBg\obj\Debug\net9.0\refint\AtividadesBg.dll
+C:\Users\eminh\OneDrive\Documentos\C#_do_Bigode\AtividadesBg\obj\Debug\net9.0\AtividadesBg.pdb
+C:\Users\eminh\OneDrive\Documentos\C#_do_Bigode\AtividadesBg\obj\Debug\net9.0\AtividadesBg.genruntimeconfig.cache
+C:\Users\eminh\OneDrive\Documentos\C#_do_Bigode\AtividadesBg\obj\Debug\net9.0\ref\AtividadesBg.dll
